@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiService {
 
-    private static final String BASE_URL = "http://technovimal.in/";
+    private static final String BASE_URL = "https://raw.githubusercontent.com/";
 
         private static final Retrofit retrofit = new Retrofit.Builder().baseUrl(BASE_URL)
                 .client(provideOkHttp())

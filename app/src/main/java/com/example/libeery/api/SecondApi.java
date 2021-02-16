@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 
 public interface SecondApi {
 
-    @GET("apps/fast-english/beers.json")
+    @GET("vimalcvs/FavoriteDatabase/main/beers.json")
     Call<Beers> getBeers();
 }
