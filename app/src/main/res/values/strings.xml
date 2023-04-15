@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Libeery</string>
-    <string name="favorites_list">Favorites List</string>
+    <string name="app_name">RoomDatabase</string>
 </resources>
